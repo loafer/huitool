@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.huitool.autoconfigure.WebAutoConfiguration,\
+com.huitool.autoconfigure.JdbcRepositoryAutoConfiguration,\
+com.huitool.autoconfigure.MybatisAutoConfiguration  

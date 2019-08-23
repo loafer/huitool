@@ -1,0 +1,11 @@
+insert into city (name, state, country) values ('San Francisco', 'CA', 'US');
+insert into city (name, state, country) values ('Jinan', 'Shandong', 'China');
+insert into city (name, state, country) values ('Qindao', 'Shandong', 'China');
+insert into city (name, state, country) values ('Yantai', 'Shandong', 'China');
+insert into city (name, state, country) values ('Taian', 'Shandong', 'China');
+insert into city (name, state, country) values ('Weifang', 'Shandong', 'China');
+insert into city (name, state, country) values ('Zibo', 'Shandong', 'China');
+insert into city (name, state, country) values ('Dongying', 'Shandong', 'China');
+insert into city (name, state, country) values ('Yantai', 'Shandong', 'China');
+insert into city (name, state, country) values ('Weihai', 'Shandong', 'China');
+insert into city (name, state, country) values ('Zaozhuang', 'Shandong', 'China');
